@@ -1,0 +1,6 @@
+General Ledger Voucher Upload for M3 (Infor/Lawson)
+
+See http://potatoit.wordpress.com
+
+GL Test.xlsx is the template for the upload
+GLS100_JournalImport_V10.js - the actual script
